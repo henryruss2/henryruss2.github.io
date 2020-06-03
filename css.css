@@ -1,0 +1,8 @@
+body {
+font-family: futura,roboto,helvetica;
+.leftfloat {
+float: left;
+}
+.rightfloat {
+float: right;
+}
