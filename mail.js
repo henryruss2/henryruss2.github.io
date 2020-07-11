@@ -4,5 +4,5 @@
 
   emailE = ('hdrussell' + '@' + emailE)
 
-  document.write('<a href="mailto:' + emailE + '">' + emailE + 'here' + '</a>')
+  document.write('<a href="mailto:' + emailE + '">' + 'here' + '</a>')
 
