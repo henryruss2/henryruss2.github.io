@@ -1,12 +1,24 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		 <script src="https://www.google.com/recaptcha/api.js?render=6LeyR7AZAAAAAN83zriKv5hoW7M1f22yJsRoS6vs"></script>
 		<title>henryruss2</title>
 		<meta name="description" content="henryruss2 is a portal for my websites!" charset="utf-8">
 		<link rel="stylesheet" href="css.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
 	<body>
+		<script>
+      function onClick(e) {
+        e.preventDefault();
+        grecaptcha.ready(function() {
+          grecaptcha.execute('6LeyR7AZAAAAAN83zriKv5hoW7M1f22yJsRoS6vs', {action: 'submit'}).then(function(token) {
+              //nothing 2 do here!
+									      
+          });
+        });
+      }
+  </script>
 		<h1>henryruss2</h1>
 		<section class="leftfloat">
 			<h2><a href="https://sustainable-superheroes.github.io">Sustainable Superheroes</a></h2>
