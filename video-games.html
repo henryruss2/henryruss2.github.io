@@ -78,24 +78,11 @@ button {
     <p>Often video games contain bad stuff .</p>
 		<form action="video-games.something" method="post">
 			<fieldset>
-				<legend>is your video game bad?</legend>
+				<legend>Is your video game appropriate</legend>
+				<label for="has-sex">does the video game have sex/nudity?</label><input type="checkbox" id="has-sex" name="has-sex">
+				<label for="gore">does the video game have blood or gore?</label><input type="checkbox" id="gore" name="gore">
+				<input type="image">
 			</fieldset>
-		 <ul>
-		  <li>
-		    <label for="name">Name:</label>
-		    <input type="text" id="name" name="user_name">
-		  </li>
-		  <li>
-		    <label for="mail">E-mail:</label>
-		    <input type="email" id="mail" name="user_email">
-		  </li>
-		  <li>
-		    <label for="msg">Message:</label>
-		    <textarea id="msg" name="user_message"></textarea>
-		  </li>
-			<li class="button">
-  <button type="submit">Send your message</button>
-      </li>
-		 </ul>
+		 </form>
 </body>
 </html>
