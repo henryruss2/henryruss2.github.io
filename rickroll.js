@@ -1,14 +1,14 @@
 var audio = new Audio('https://henryruss2.github.io/rickroll.mp3');
 audio.play();
 alert('
-We\'re no strangers to love
+Were no strangers to love
 You know the rules and so do I
-A full commitment\'s what I\'m thinking of
-You wouldn\'t get this from any other guy
-I just wanna tell you how I\'m feeling
+A full commitments what Im thinking of
+You wouldnt get this from any other guy
+I just wanna tell you how Im feeling
 Gotta make you understand
-And if you ask me how I\'m feeling
-Don\'t tell me you\'re too blind to see
+And if you ask me how Im feeling
+Dont tell me youre too blind to see
 
 Never gonna give you up
 Never gonna let you down
@@ -24,14 +24,14 @@ Never gonna tell a lie and hurt you
 (Oooh) Never gonna give, never gonna give
 (Give you up)
 
-We\'ve known each other for so long
-Your heart\'s been aching but you\'re too shy to say it
-Inside we both know what\'s been going on
-We know the game and we\'re gonna play it
-I just wanna tell you how I\'m feeling
+Weve known each other for so long
+Your hearts been aching but youre too shy to say it
+Inside we both know whats been going on
+We know the game and were gonna play it
+I just wanna tell you how Im feeling
 Gotta make you understand
-And if you ask me how I\'m feeling
-Don\'t tell me you\'re too blind to see
+And if you ask me how Im feeling
+Dont tell me youre too blind to see
 
 Never gonna give you up
 Never gonna let you down
@@ -56,12 +56,12 @@ Gonna-gonna, gonna, gonna-gonna-gonna
 (Oooh, give you up)
 
 (Give)
-We\'ve known each other for so long
+Weve known each other for so long
 (Never gonna give)
-Your heart\'s been aching but you\'re too shy to say it
-Inside we both know what\'s been going on
+Your hearts been aching but youre too shy to say it
+Inside we both know whats been going on
 (Never gonna give)
-We know the game and we\'re gonna play it
+We know the game and were gonna play it
 
 Never gonna give you up
 Never gonna let you down
